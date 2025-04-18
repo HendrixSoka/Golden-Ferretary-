@@ -1,0 +1,19 @@
+@import "tailwindcss";
+*{
+  font-family: 'Press Start 2P', cursive;
+  image-rendering: pixelated;
+  text-rendering: optimizeSpeed;
+}
+
+.btn-pixel {
+  background-color: #FFD700;
+  border: 4px solid black;
+  box-shadow: 4px 4px 0px black;
+  padding: 10px 20px;
+  text-transform: uppercase;
+}
+
+.btn-pixel:active {
+  box-shadow: 2px 2px 0px black;
+  transform: translate(2px, 2px);
+}
