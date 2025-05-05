@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ferreteria-458722",
+  "private_key_id": "934d9cabf162823283d2b13cdf0f359b7d474d05",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMttMnG3FEVwTY\n1D6rjQMuOmJu1Xl04UlPB2bK9MDIgXkJ4XyzoXmgXeRzqJcNBEXGzayIaApd+DHM\nFaUGev77kNm1TClNLmMUwmAUwgeifXVvIfukpbBan0wQ/7/Nua/EQJ+hUyKcixfh\n4mP6xv2rkdCoZnwzlNVqPOKrvWRJymNqp4yzT6l/9/UIn+sljB6aX+8iOLGGu8Fh\nfnT8Eknu+YirupeG1IwEKQt6m0SMp9DdBd5PSndcCGHltGQaekfUAKZ5wmpUNDG8\ncyJLhO2EBS8lPxy9RiqIwg0zH6KY8Ao4lchlTa9j9NxfmghHdZsGfxxvse7PslgW\nAhI4EkWtAgMBAAECggEAH6h6WQbmalImvr17/52sCz8eL9O1l7yrUJxtah+VnKxh\nIoULeuAS5hj/Fl/RFEM/4zG1Z9bnG4chdFU4kxr8Sb0p3d6sWHI/AlvY7fzfn2JV\ngd04hErXTfxqkAptCAyaQPhZd2Ja7OiZxeXz3jldy2WeZhyLQpLWujo2N6bvVnW+\nJWHI4Mw6Vornj1q01IKUELRY1Qqsd03vSf3nJhCZX5B1pwZM9ZHRTo1QU+FmkekR\nAbzG7JBJOmHCDCx4XJptUVP9xkzG+vg69xQUmgZ/wtKDKxT5+03spcObzW7JSckq\nB1jtxFRGc2G1B9jCkrVy13oEo1ALkTqoK0hy2MP1RQKBgQDyIjMguyFPS1NDPotq\nTuEK1AJT95+BWFv9yEPOplsw1UNAbS5LLmJ49irbJ2Imf5wgw14xgSxcQjL2PKIO\nkUT8H8oHfFOq+QYqVXJ97hpTPhMURbxQClh+tlQSiPqvlbZ+SHNbQ+PG1Bt9AEzX\nffDERttGtvmrLV3Vu0nlciAlfwKBgQDYcAmR0WfjkeS5NX/5xe+98AhX6sgH5MJc\nNx5HxBQDzY90IdrhH9IPz+p260oHkAXUc++lfycT/HuqGjgIRE6U/IwexJX+LoQ9\nUpEbOymkUXT43AWDalyVrX6V1GNFMOGzVEMiQZ4sxRdSjU2vZhLbOKjO177vg8LU\nmWWMpqei0wKBgCL3PVrkqxLAVe3IAmn/qg/ePdfSUn5jPCWR3fjhnRmYMnYDTkQd\nFqtRIS80qL/Wfb1deSS8+qL4DFPyvZRM9iFSleIu2gY+n91NKZN15udOd4Ld7yu/\n0re5rLpgfZMNk6T44W+0hhgYWT/b4zzbOwGdGd1EXxmRG5PZz/oKWQoRAoGBALUZ\nwhgeJRSY/c4vQt8HTVwbnY+a5zcbpbmtcQvRuIGaHd+peFEI5CbQ7ToGFJKRYx9q\nxuouo88oY31opNvd8/bb/o68JVljKMl67engLi7M7dhRmddlRwUC/7l01n+NsDzy\nU541U5nYbHRpwcfy2/JMzYsNoTkeggaMOBlhVUF7AoGAL54kZnzjVCwRhxMMayvr\nbFP0ic2eZV8r3OwBPuzQKWdrqDGKqvc3Va+6UoYFEeyYpfoWDHp/Vq0AZ13aPtDN\nAAKGoSBaOEF5mQ7VtgsV73saOmMhJVRRu8Ac/ytcgbaNz4QGhsby20l6Wnh8sLAE\npsl4Lgl6/bklRzWl2PvPsVQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "imagenf@ferreteria-458722.iam.gserviceaccount.com",
+  "client_id": "118109896313933247018",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/imagenf%40ferreteria-458722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
